@@ -1,0 +1,16 @@
+{
+  "name": "antd-components",
+  "version": "1.0.0",
+  "description": "custom antd components",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "antd",
+    "components"
+  ],
+  "author": "Anjan Talatam",
+  "license": "MIT"
+}

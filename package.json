@@ -1,5 +1,8 @@
 {
-  "name": "antd-components",
+  "name": "@anjantalatam/antd-components",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/anjantalatam"
+  },
   "version": "1.0.0",
   "description": "custom antd components",
   "type": "module",
